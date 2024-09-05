@@ -20,13 +20,13 @@
     "electron-replace-ffmpeg": "electron-replace-ffmpeg.js"
   },
   "dependencies": {
-    "electron": "^9.0.2",
+    "electron": "^22.0.0",
     "electron-download": "^4.1.1",
-    "electron-store": "^5.1.1",
+    "electron-store": "^9.0.0",
     "fix-path": "^3.0.0",
     "native-keymap": "^2.1.2",
-    "node-gyp": "^7.0.0",
-    "unzipper": "^0.9.11",
+    "node-gyp": "^10.2.0",
+    "unzipper": "^0.12.1",
     "yargs": "^15.3.1"
   },
   "scripts": {
